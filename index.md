@@ -12,6 +12,7 @@ Outside of work, you’ll probably find me diving into side projects, learning s
 Right now, I’m working with JPMorgan Chase, and I’m always open to interesting opportunities — whether it’s joining a great team, tackling a new challenge, or just connecting with like-minded people.
 
 If you’re here out of curiosity, thanks for stopping by. If you’re here as a potential employer or collaborator, feel free to get in touch. I’d love to chat.
+
 ---
 
 ### 🔗 Connect with Me
@@ -19,8 +20,6 @@ If you’re here out of curiosity, thanks for stopping by. If you’re here as a
 - [GitHub](https://github.com/mrunalinidudhagawali8)
 - [LeetCode](https://leetcode.com/u/mrunalinidudhagawali/)
 
+---
 
-<p style="margin-top: 30px; text-align: center;">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmrunalinidudhagawali8.github.io&count_bg=%23000000&title_bg=%23555555&icon=eye.svg&icon_color=%23ffffff&title=Page+Views&edge_flat=false" alt="Page Views">
-</p>
-
+![counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmrunalinidudhagawali8.github.io&count_bg=%23000000&title_bg=%23555555&icon=eye.svg&icon_color=%23ffffff&title=Page+Views&edge_flat=false)
