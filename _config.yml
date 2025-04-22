@@ -7,13 +7,6 @@ author:
   name: Mrunalini Dudhagawali
   email: your@email.com
   github: mrunalinidudhagawali8
-  linkedin: your-linkedin
-  twitter: your-twitter
-
-theme: carte
-
-# For Google Analytics (optional)
-google_analytics: UA-XXXXXXXXX-X
 
 plugins:
   - jekyll-feed
