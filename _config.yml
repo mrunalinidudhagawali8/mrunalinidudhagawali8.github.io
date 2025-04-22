@@ -1,0 +1,20 @@
+title: Mrunalini Dudhagawali
+description: Personal website, life journal, and career projects.
+baseurl: ""
+url: "https://mrunalinidudhagawali8.github.io"
+
+author:
+  name: Mrunalini Dudhagawali
+  email: your@email.com
+  github: mrunalinidudhagawali8
+  linkedin: your-linkedin
+  twitter: your-twitter
+
+theme: carte
+
+# For Google Analytics (optional)
+google_analytics: UA-XXXXXXXXX-X
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
