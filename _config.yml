@@ -14,3 +14,6 @@ plugins:
   - jekyll-seo-tag
 
 theme: jekyll-theme-hacker
+repository: false
+github:
+  is_project_page: false
