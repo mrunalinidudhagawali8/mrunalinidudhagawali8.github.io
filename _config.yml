@@ -1,12 +1,13 @@
 title: Mrunalini Dudhagawali
-description: Personal website, life journal, and career projects.
+description: Backend Developer | Java | Spring Boot | AI Learner
 baseurl: ""
 url: "https://mrunalinidudhagawali8.github.io"
 
 author:
   name: Mrunalini Dudhagawali
-  email: your@email.com
-  github: mrunalinidudhagawali8
+  email: dudhagawali@email.com
+  github: https://github.com/mrunalinidudhagawali8/
+  linkedin: https://www.linkedin.com/in/mrunalini-dudhagawali-35b46a128/
 
 plugins:
   - jekyll-feed

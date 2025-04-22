@@ -1,6 +1,10 @@
 ---
-layout: home
-title: Mrunalini Dudhagawali
+layout: page
+title: Hi, I’m Mrunalini
 ---
-Welcome to my personal space on the internet.  
-Here I share my journey, projects, reflections, and everything that makes me... me.
+
+👩‍💻 I’m a backend developer who loves building scalable apps with Java & Spring Boot.  
+🧠 Currently diving into AI, System Design, and Financial Literacy.  
+📖 This space is my journal, my workbench, and my digital identity.
+
+🚀 I'm building my next chapter — one clean commit at a time.
