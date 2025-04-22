@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: Hi, I’m Mrunalini
 ---
 
-👩‍💻 I’m a backend developer who loves building scalable apps with Java & Spring Boot.  
-🧠 Currently diving into AI, System Design, and Financial Literacy.  
-📖 This space is my journal, my workbench, and my digital identity.
+👩‍💻 I’m a backend developer who builds scalable systems using Java & Spring Boot.  
+🧠 Exploring AI, System Design, and Financial Literacy.  
+📖 This is my personal journal and tech playground.
 
-🚀 I'm building my next chapter — one clean commit at a time.
+🚀 Let's build a future that matters — line by line.
