@@ -18,7 +18,7 @@ If you’re here out of curiosity, thanks for stopping by. If you’re here as a
 - [LinkedIn](https://www.linkedin.com/in/mrunalini-dudhagawali-35b46a128/)
 - [GitHub](https://github.com/mrunalinidudhagawali8)
 - [LeetCode](https://leetcode.com/u/mrunalinidudhagawali/)
-- 
-- 
-  ![Page Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmrunalinidudhagawali8.github.io&count_bg=%237A7A7A&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=true)
+
+
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmrunalinidudhagawali8.github.io&count_bg=%237A7A7A&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=true)
 
