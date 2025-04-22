@@ -20,5 +20,7 @@ If you’re here out of curiosity, thanks for stopping by. If you’re here as a
 - [LeetCode](https://leetcode.com/u/mrunalinidudhagawali/)
 
 
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmrunalinidudhagawali8.github.io&count_bg=%237A7A7A&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=true)
+<p style="margin-top: 30px; text-align: center;">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmrunalinidudhagawali8.github.io&count_bg=%23000000&title_bg=%23555555&icon=eye.svg&icon_color=%23ffffff&title=Page+Views&edge_flat=false" alt="Page Views">
+</p>
 
