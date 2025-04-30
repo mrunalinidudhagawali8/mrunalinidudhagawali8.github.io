@@ -22,13 +22,9 @@ If you’re here out of curiosity, thanks for stopping by. If you’re here as a
 -[GitHub Repo](https://github.com/mrunalinidudhagawali8/shortlinker)
 
 ---
-## 📚 Check out my blog here [blog](https://mrunalinidudhagawali8.github.io/blog)
+### 📚 Check out my blog here [blog](https://mrunalinidudhagawali8.github.io/blog)
 ---
-### 1. 🔗 ShortLinker – A minimal Java + MongoDB-based backend API with a clean static frontend for generating and tracking short URLs.
--[Live Demo](https://mrunalinidudhagawali8.github.io/shortlinker-ui/)
--[GitHub Repo](https://github.com/mrunalinidudhagawali8/shortlinker)
 
----
 ### 🌐 Connect with Me
 -[LinkedIn](https://www.linkedin.com/in/mrunalini-dudhagawali-35b46a128/)
 -[GitHub](https://github.com/mrunalinidudhagawali8)
