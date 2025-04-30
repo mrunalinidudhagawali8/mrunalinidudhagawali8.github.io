@@ -3,7 +3,36 @@ layout: default
 title: Shortlinker
 ---
 
-<div style="max-width: 600px; margin: 0 auto; padding-top: 40px; text-align: center;">
+<style>
+    header,
+    nav,
+    .site-header {
+      display: none !important;
+    }
+
+    .custom-nav {
+      position: absolute;
+      top: 10px;
+      right: 20px;
+    }
+
+    .custom-nav a {
+      color: #8cff00;
+      font-family: monospace;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .custom-nav a:hover {
+      text-decoration: underline;
+    }
+</style>
+
+<div class="custom-nav">
+    <a href="https://mrunalinidudhagawali8.github.io/">About Me</a>
+</div>
+
+<div style="max-width: 600px; margin: 0 auto; padding-top: 60px; text-align: center;">
     <h1 style="color: #8cff00;">URL Shortener</h1>
 
     <form id="shorten-form" style="margin-top: 20px;">
