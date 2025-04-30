@@ -23,8 +23,8 @@ If you’re here out of curiosity, thanks for stopping by. If you’re here as a
 
 ---
 ### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/mrunalini-dudhagawali-35b46a128/)
-- [GitHub](https://github.com/mrunalinidudhagawali8)
-- [LeetCode](https://leetcode.com/u/mrunalinidudhagawali/)
----
+-[LinkedIn](https://www.linkedin.com/in/mrunalini-dudhagawali-35b46a128/)
+-[GitHub](https://github.com/mrunalinidudhagawali8)
+-[LeetCode](https://leetcode.com/u/mrunalinidudhagawali/)
+
 
