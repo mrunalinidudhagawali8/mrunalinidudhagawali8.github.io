@@ -4,10 +4,12 @@ title: Blog
 ---
 
 # 📝 Blog
-Total blog posts: {{ site.posts | size }}
 <ul>
   {% for post in site.posts %}
-    <li>{{ post.path }}</li>
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <small>— {{ post.date | date: "%B %-d, %Y" }}</small>
+    </li>
   {% endfor %}
 </ul>
 
