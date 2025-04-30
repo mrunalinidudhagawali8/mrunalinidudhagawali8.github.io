@@ -14,4 +14,6 @@ Here’s a list of all my blog posts — creative prompts, tech ideas, side proj
       <small>— {{ post.date | date: "%B %-d, %Y" }}</small>
     </li>
   {% endfor %}
+Total blog posts: {{ site.posts | size }}
+
 </ul>
