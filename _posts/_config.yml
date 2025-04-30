@@ -1,7 +1,0 @@
-title: Shortlinker UI
-description: A simple URL shortener frontend
-baseurl: "/shortlinker-ui"
-url: "https://mrunalinidudhagawali8.github.io"
-theme: jekyll-theme-hacker
-github:
-  is_project_page: true
