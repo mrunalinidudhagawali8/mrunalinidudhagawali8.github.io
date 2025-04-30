@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Shortlinker UI
+title: Shortlinker
 ---
 
 <h1>URL Shortener</h1>
@@ -16,12 +16,16 @@ title: Shortlinker UI
     form.addEventListener('submit', async (e) => {
       e.preventDefault();
       const url = document.getElementById('original-url').value;
+
       const res = await fetch('https://url-shortener-api-production-ec50.up.railway.app/api/shorten', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ originalUrl: url })
       });
-      const data = await res.json();
-      result.innerHTML = `Shortened URL: <a href="${data.shortUrl}" target="_blank">${data.shortUrl}</a>`;
+
+      const shortCode = await res.text(); // get short code like "NKX3Rd"
+      const fullShortUrl = `https://url-shortener-api-production-ec50.up.railway.app/api/${shortCode}`;
+
+      result.innerHTML = `Shortened URL: <a href="${fullShortUrl}" target="_blank">${fullShortUrl}</a>`;
     });
 </script>
