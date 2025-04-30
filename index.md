@@ -13,16 +13,18 @@ Right now, I’m working with JPMorgan Chase, and I’m always open to interesti
 
 If you’re here out of curiosity, thanks for stopping by. If you’re here as a potential employer or collaborator, feel free to get in touch. I’d love to chat.
 ---
-# 🚀 Projects 
+
+---
+## 🚀 Projects 
 
 ### 1. 🔗 ShortLinker – A minimal Java + MongoDB-based backend API with a clean static frontend for generating and tracking short URLs.
 -[Live Demo](https://mrunalinidudhagawali8.github.io/shortlinker-ui/)
 -[GitHub Repo](https://github.com/mrunalinidudhagawali8/shortlinker)
 
-
+---
 ### 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/mrunalini-dudhagawali-35b46a128/)
 - [GitHub](https://github.com/mrunalinidudhagawali8)
 - [LeetCode](https://leetcode.com/u/mrunalinidudhagawali/)
-
+---
 
