@@ -1,20 +1,27 @@
-<!-- index.html -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>URL Shortener</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-<div class="container">
-    <h1>Shorten your URL 🚀</h1>
-    <input type="text" id="originalUrl" placeholder="Enter your long URL...">
-    <button onclick="shortenUrl()">Shorten it!</button>
-    <div id="result"></div>
-</div>
+---
+layout: default
+title: Shortlinker UI
+---
 
-<script src="script.js"></script>
-</body>
-</html>
+<h1>URL Shortener</h1>
+<form id="shorten-form">
+    <input type="text" id="original-url" placeholder="Enter original URL" required />
+    <button type="submit">Shorten</button>
+</form>
+<p id="result"></p>
+
+<script>
+    const form = document.getElementById('shorten-form');
+    const result = document.getElementById('result');
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const url = document.getElementById('original-url').value;
+      const res = await fetch('https://url-shortener-api-production-ec50.up.railway.app/api/shorten', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ originalUrl: url })
+      });
+      const data = await res.json();
+      result.innerHTML = `Shortened URL: <a href="${data.shortUrl}" target="_blank">${data.shortUrl}</a>`;
+    });
+</script>
