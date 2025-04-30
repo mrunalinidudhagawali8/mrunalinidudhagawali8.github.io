@@ -1,7 +1,7 @@
 ---
 title: "Creative Prompt #1 — How Will Job Interviews Look Like in 2040?"
 layout: post
-date: 2025-05-01
+date: 2025-04-30
 ---
 
 > *“Imagine it’s the year 2040. How will job interviews look like in the future—across tech, design, and leadership roles? Focus on both serious and quirky possibilities.”*
