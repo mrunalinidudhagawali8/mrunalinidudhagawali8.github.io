@@ -1,7 +1,7 @@
 ---
-title: "Creative Prompt #1 — How Will Job Interviews Look Like in 2040?"
+title: "Bridging Time: When Musk Met Einstein in 2025"
 layout: post
-date: 2025-04-30
+date: 2025-05-06
 ---
 ---
 
